@@ -20,6 +20,9 @@ out/
 test_*.js
 test_*.json
 
+# Documentation files
+*.md
+
 # IDE files
 .vscode/
 .idea/
